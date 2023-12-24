@@ -19,12 +19,13 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,cs,java,html,css,visualstudio,vscode,eclipse" />
     <img src="https://skillicons.dev/icons?i=github,linux" /><br>
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="right">Courses</h2>
+<h2 align="center">Courses</h2>
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>
