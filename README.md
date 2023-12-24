@@ -51,7 +51,6 @@
 <h5 align="left">- currently doing the "junior penetration tester" course on tryhackme.</h5>
     
 <br/>
-<br/>
 
 <hr/>
 
