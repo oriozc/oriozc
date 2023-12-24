@@ -18,7 +18,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c-sharp,python,html,css,vscode" />
-    <img src="https://skillicons.dev/icons?i=kali-linux,ubuntu,linux,windows,GNU%20Bash,VirtualBox,VMware" /><br>
+    <img src="https://skillicons.dev/icons?i=kali-linux,ubuntu,linux,windows,VirtualBox,VMware" /><br>
 </div>
 
 <br/>
