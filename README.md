@@ -52,6 +52,7 @@
     
 <br/>
 <br/>
+
 <hr/>
 
 <h2 align="center">More experience</h2>
@@ -68,7 +69,7 @@
 
 <h5 align="left">- Basic experience with aircrack-ng.</h5>
 
-
+<br/>
 <hr/>
 <br/>
 <div align="center">
