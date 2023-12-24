@@ -52,8 +52,10 @@
     
 <br/>
 <br/>
+<hr/>
 
-<h4>More experience:</h4>
+<h2 align="center">More experience</h2>
+<br/>
 <h5 align="left">- Experience on solving ctfs. Practiced at sites like:</h5>
 <h5 align="left">overthewire , picoctf , pwnable.kr etc.</h5>
 
@@ -64,8 +66,8 @@
 
 <h5 align="left">- Basic experience with aircrack-ng.</h5>
 
-<hr/>
 
+<hr/>
 <br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
