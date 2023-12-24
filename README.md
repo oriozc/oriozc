@@ -51,7 +51,17 @@
 
 <h5 align="left">currently doing the "junior penetration tester" course on tryhackme.</h5>
     
+<br/>
 
+<h5 align="left">I have experience on solving ctfs. Practiced at sites like:</h5> <br/>
+<h5 align="left">overthewire , picoctf , pwnable.kr etc.</h5> <br/>
+
+<h5 align="left">I have experience with linux and with:</h5> <br/>
+<h5 align="left">Metasploit , Nmap , Hydra , Nikto , Wireshark , burpsuite etc.</h5> <br/>
+
+<h5 align="left">basic experience with reverse engineering, Ghidra and IDA.</h5> <br/>
+
+<h5 align="left">Basic experience with aircrack-ng.</h5> <br/>
 
 <hr/>
 
