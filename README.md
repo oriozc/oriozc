@@ -43,26 +43,26 @@
 
 <div align="left">
     <h4 align="left">Courses:</h4>
-    <h5 align="left">hackthebox academy - </h5>
+    <h5 align="left">- hackthebox academy </h5>
     <a href="">Using the metasploit framework</a> <br/>
     <a href="https://academy.hackthebox.com/achievement/badge/beece776-90f0-11ee-bfb6-bea50ffe6cb4">Security Incident Reporting</a> <br/>
 </div>
 
-<h5 align="left">currently doing the "junior penetration tester" course on tryhackme.</h5>
+<h5 align="left">- currently doing the "junior penetration tester" course on tryhackme.</h5>
     
 <br/>
 <br/>
 
 <h4>More experience:</h4>
 <h5 align="left">- I have experience on solving ctfs. Practiced at sites like:</h5>
-<h5 align="left">overthewire , picoctf , pwnable.kr etc.</h5> <br/>
+<h5 align="left">overthewire , picoctf , pwnable.kr etc.</h5>
 
 <h5 align="left">- I have experience with linux and with:</h5>
 <h5 align="left">Metasploit , Nmap , Hydra , Nikto , Wireshark , burpsuite etc.</h5> <br/>
 
-<h5 align="left">- Basic experience with reverse engineering, Ghidra and IDA.</h5> <br/>
+<h5 align="left">- Basic experience with reverse engineering, Ghidra and IDA.</h5>
 
-<h5 align="left">- Basic experience with aircrack-ng.</h5>
+<h5 align="left">- Basic experience with aircrack-ng.
 
 <hr/>
 
