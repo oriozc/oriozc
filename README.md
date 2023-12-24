@@ -20,7 +20,7 @@
     <img src="https://skillicons.dev/icons?i=py,cs,java,html,css,visualstudio,vscode,eclipse" />
     <img src="https://skillicons.dev/icons?i=github,linux" /><br>
     <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </div>
 
 <br/>
