@@ -17,8 +17,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=C%23-239120,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,c,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=c-sharp,python,html,css,vscode" />
+    <img src="https://skillicons.dev/icons?i=kali-linux,ubuntu,linux,windows,GNU%20Bash,VirtualBox,VMware" /><br>
 </div>
 
 <br/>
