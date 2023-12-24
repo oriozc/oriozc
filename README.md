@@ -17,8 +17,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c-sharp,python,html,css,vscode" />
-    <img src="https://skillicons.dev/icons?i=kali-linux,ubuntu,linux,windows,VirtualBox,VMware" /><br>
+    <img src="https://skillicons.dev/icons?i=py,cs,java,html,css" />
+    <img src="https://skillicons.dev/icons?i=linux" /><br>
 </div>
 
 <br/>
