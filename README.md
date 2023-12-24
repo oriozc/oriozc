@@ -62,7 +62,7 @@
 
 <h5 align="left">- Basic experience with reverse engineering, Ghidra and IDA.</h5> <br/>
 
-<h5 align="left">- Basic experience with aircrack-ng.</h5> <br/>
+<h5 align="left">- Basic experience with aircrack-ng.</h5>
 
 <hr/>
 
