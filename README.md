@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-    I’m currently learning Cyber security, penetration testing and more.
+    I’m currently learning Cyber security and focusing on penetration testing.
 </div>
 
  <hr/>
