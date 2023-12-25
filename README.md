@@ -13,7 +13,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,cs,java,html,css,visualstudio,vscode,eclipse,vim,github,linux,discord" /> <br/>
+    <img src="https://skillicons.dev/icons?i=py,cs,java,html,css,visualstudio,vscode,eclipse,vim,github,linux,bash,discord" /> <br/>
     <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
