@@ -60,8 +60,8 @@
 <h5 align="left">- Experience on solving ctfs. Practiced at sites like:</h5>
 <h5 align="left">overthewire , picoctf , pwnable.kr etc.</h5>
 
-<h5 align="left">- Experience with linux and with variety of tools:</h5>
-<h5 align="left">Metasploit , Nmap , Hydra , Nikto , john the ripper, Wireshark , burpsuite etc.</h5>
+<h5 align="left">- Experience with linux and with variety of tools such as:</h5>
+<h5 align="left">Metasploit , Nmap , Hydra , Nikto , John the ripper, Wireshark , burpsuite etc.</h5>
 
 <h5 align="left">- Basic experience with reverse engineering, Ghidra and IDA.</h5>
 
