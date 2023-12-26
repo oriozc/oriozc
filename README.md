@@ -56,7 +56,7 @@
 
 <h2 align="center">More experience</h2>
 <h5 align="left">- Have an understanding of networks, operating systems, cryptography and more.</h5>
-<h5 align="left">- Have experience with common attacks and vulnerabilities such as SYN flood, ARP spoofing, SQL injection, MITM, DoS, XSS, buffer overflow, shellshock, ransomware.</h5>
+<h5 align="left">- Have experience with common attacks and vulnerabilities such as SYN flood, MITM, DoS, ransomware, ARP spoofing, SQL injection, XSS, buffer overflow, shellshock.</h5>
 <h5 align="left">- Experience on solving ctfs. Practiced at sites like:</h5>
 <h5 align="left">overthewire , picoctf , pwnable.kr etc.</h5>
 
