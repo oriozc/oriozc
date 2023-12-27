@@ -57,16 +57,18 @@
 
 <h2 align="center">More experience</h2>
 <h5 align="left">- Have an understanding of networks, operating systems, cryptography and more.</h5>
-<h5 align="left">- Have experience with common attacks and vulnerabilities such as SYN flood, MITM, DoS, ransomware, ARP spoofing, SQL injection, XSS, buffer overflow, shellshock.</h5>
+<h5 align="left">- Have experience with common attacks and vulnerabilities such as SYN flood, MITM, DoS, bruteforce, dictionary attack, ransomware, ARP spoofing, SQL injection, XSS, buffer overflow, shellshock.</h5>
 <h5 align="left">- Experience on solving ctfs. Practiced at sites like:</h5>
 <h5 align="left">overthewire , picoctf , pwnable.kr etc.</h5>
 
 <h5 align="left">- Experience with linux and with variety of tools such as:</h5>
 <h5 align="left">Metasploit , Nmap , Hydra , Nikto , John the ripper, Wireshark , burpsuite etc.</h5>
 
-<h5 align="left">- Basic experience with reverse engineering, Ghidra and IDA.</h5>
-
 <h5 align="left">- Basic experience with aircrack-ng.</h5>
+
+<h5 align="left">Have understanding of information gathering and reconnaissance techniques such as social engineering, footprinting, network scanning, vulnerability scanning and war dialing.</h5>
+
+<h5 align="left">- Basic experience with reverse engineering, Ghidra and IDA.</h5>
 
 <br/>
 <hr/>
