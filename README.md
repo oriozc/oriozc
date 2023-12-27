@@ -62,7 +62,7 @@
 <h5 align="left">overthewire , picoctf , pwnable.kr etc.</h5>
 
 <h5 align="left">- Experience with linux and with variety of tools such as:</h5>
-<h5 align="left">Metasploit , Nmap , Hydra , Nikto , John the ripper, Wireshark , Burpsuite etc.</h5>
+<h5 align="left">Metasploit , Nmap , Wireshark , Burpsuite , Hydra , Nikto , John the ripper, Hashcat etc.</h5>
 
 <h5 align="left">- Basic experience with Aircrack-ng and SQLmap.</h5>
 
