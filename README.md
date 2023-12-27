@@ -68,8 +68,6 @@
 
 <h5 align="left">- Have an understanding of OSINT and information gathering techniques such as social engineering, footprinting, network scanning, vulnerability scanning and war dialing.</h5>
 
-<h5 align="left">- Basic experience with reverse engineering, Ghidra and IDA.</h5>
-
 <br/>
 <hr/>
 <br/>
