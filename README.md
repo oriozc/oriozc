@@ -64,7 +64,7 @@
 <h5 align="left">- Experience with linux and with variety of tools such as:</h5>
 <h5 align="left">Metasploit , Nmap , Hydra , Nikto , John the ripper, Wireshark , burpsuite etc.</h5>
 
-<h5 align="left">- Basic experience with aircrack-ng.</h5>
+<h5 align="left">- Basic experience with aircrack-ng and SQLmap.</h5>
 
 <h5 align="left">- Have an understanding of information gathering and reconnaissance techniques such as social engineering, footprinting, network scanning, vulnerability scanning and war dialing.</h5>
 
