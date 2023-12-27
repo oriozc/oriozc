@@ -70,7 +70,6 @@
 
 <br/>
 <hr/>
-<br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -84,6 +83,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=oriozc&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oriozc&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
