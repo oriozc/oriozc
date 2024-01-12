@@ -85,7 +85,7 @@
 
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriozc)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oriozc&theme=nightowl&hide_border=false)
 <br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oriozc&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
