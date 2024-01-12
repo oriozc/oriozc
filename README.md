@@ -85,7 +85,7 @@
 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=oriozc&theme=nightfox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oriozc&theme=tokyonight&card_width=380)](https://git.io/streak-stats)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oriozc&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
