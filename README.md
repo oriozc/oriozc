@@ -67,7 +67,7 @@
 
 <h5 align="left">- Basic experience with Aircrack-ng, SQLmap and Hashcat.</h5>
 
-<h5 align="left">- Have an understanding of OSINT and information gathering techniques such as social engineering, footprinting and vulnerability scanning.</h5>
+<h5 align="left">- Have an understanding of OSINT and information gathering techniques such as social engineering and reconnaissance.</h5>
 
 <h5 align="left">- Have an understanding of programming concepts such as OOP, data structures, multithreading etc.</h5>
 
