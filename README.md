@@ -61,7 +61,7 @@
 <h5 align="left">- Have an understanding of networks, operating systems, cryptography and more.</h5>
 <h5 align="left">- Have experience with common attacks and vulnerabilities such as SYN flood, MITM, DoS, Bruteforce, Dictionary attack, Ransomware, Deauthentication attack, ARP spoofing, SQL injection, XSS, Buffer overflow, Shellshock, Heartbleed.</h5>
 <h5 align="left">- Experience on solving ctfs. Practiced at sites like:</h5>
-<h5 align="left">overthewire , picoctf , pwnable.kr etc.</h5>
+<h5 align="left">overthewire , picoctf , pwnable.kr, hackthebox etc.</h5>
 
 <h5 align="left">- Experience with linux and with variety of tools such as:</h5>
 <h5 align="left">Metasploit , Nmap , Wireshark , Burpsuite , Hydra , Nikto , John the ripper etc.</h5>
