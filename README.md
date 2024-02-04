@@ -68,7 +68,6 @@
 
 <h5 align="left">- Have an understanding of programming concepts such as OOP, data structures, multithreading etc.</h5>
 
-<br/>
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
