@@ -47,9 +47,7 @@
     <h5 align="left">- hackthebox academy </h5>
     <a href="https://academy.hackthebox.com/achievement/badge/47e5906b-a889-11ee-bfb6-bea50ffe6cb4">Using the metasploit framework</a> <br/>
     <a href="https://academy.hackthebox.com/achievement/badge/b23b8764-a631-11ee-bfb6-bea50ffe6cb4">Inroduction to Networking</a> <br/>
-    <a href="https://academy.hackthebox.com/achievement/badge/beece776-90f0-11ee-bfb6-bea50ffe6cb4">Security Incident Reporting</a> <br/>
-
-<h5 align="left">currently doing the junior penetration tester course on tryhackme.</h5>
+    <a href="https://academy.hackthebox.com/achievement/badge/beece776-90f0-11ee-bfb6-bea50ffe6cb4">Security Incident Reporting</a> 
 
 </div>
     
