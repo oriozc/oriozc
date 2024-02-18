@@ -49,7 +49,7 @@
     <a href="https://academy.hackthebox.com/achievement/badge/b23b8764-a631-11ee-bfb6-bea50ffe6cb4">Inroduction to Networking</a> <br/>
     <a href="https://academy.hackthebox.com/achievement/badge/beece776-90f0-11ee-bfb6-bea50ffe6cb4">Security Incident Reporting</a> <br/>
     
-    <h4 align="left">TryHackMe profile:<h4>
+    <h4 align="left"> TryHackMe profile: </h4>
     <script src="https://tryhackme.com/badge/1750346"></script>
 
 </div>
