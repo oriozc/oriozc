@@ -48,6 +48,9 @@
     <a href="https://academy.hackthebox.com/achievement/badge/47e5906b-a889-11ee-bfb6-bea50ffe6cb4">Using the metasploit framework</a> <br/>
     <a href="https://academy.hackthebox.com/achievement/badge/b23b8764-a631-11ee-bfb6-bea50ffe6cb4">Inroduction to Networking</a> <br/>
     <a href="https://academy.hackthebox.com/achievement/badge/beece776-90f0-11ee-bfb6-bea50ffe6cb4">Security Incident Reporting</a> <br/>
+    <h4 align="left">Practice:</h4>
+    <h5 align="left">Experience on solving ctfs. Practiced at sites like: overthewire , picoctf , tryhackme, pwnable.kr, hackthebox etc.</h5> <br/>
+    <script src="https://tryhackme.com/badge/1750346"></script>
 
 
 </div>
@@ -59,8 +62,6 @@
 <h2 align="center">More experience</h2>
 <h5 align="left">- Have an understanding of networks, operating systems, cryptography and more.</h5>
 <h5 align="left">- Have experience with common attacks and vulnerabilities such as SYN flood, MITM, DoS, Bruteforce, Dictionary attack, Ransomware, Deauthentication attack, ARP spoofing, SQL injection, XSS, Buffer overflow, Shellshock, Heartbleed.</h5>
-<h5 align="left">- Experience on solving ctfs. Practiced at sites like:</h5>
-<h5 align="left">overthewire , picoctf , tryhackme, pwnable.kr, hackthebox etc.</h5>
 
 <h5 align="left">- Experience with linux and with variety of tools such as:</h5>
 <h5 align="left">Metasploit , Nmap , Wireshark , Burpsuite , Hydra , Nikto , John the ripper etc.</h5>
