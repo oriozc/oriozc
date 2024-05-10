@@ -50,7 +50,6 @@
     <a href="https://academy.hackthebox.com/achievement/badge/beece776-90f0-11ee-bfb6-bea50ffe6cb4">Security Incident Reporting</a> <br/> <br/>
     <h4 align="left">Practice:</h4>
     <h5 align="left">Experience on solving ctfs. Practiced at sites like: overthewire , picoctf , tryhackme, pwnable.kr, hackthebox etc.</h5> <br/>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/oriozc.png" alt="TryHackMe">
 </div>
 
 <br/>
