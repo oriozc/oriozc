@@ -15,7 +15,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,cs,java,c,html,css,bash,linux,windows" /> <br/>
     <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,pycharm,eclipse,vim" /> <br/>
-        <img src="https://skillicons.dev/icons?i=ubuntu,sublime" /> <br/>
+        <img src="https://skillicons.dev/icons?i=ubuntu,sublime,notion" /> <br/>
     <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
