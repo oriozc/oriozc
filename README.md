@@ -44,7 +44,7 @@
     <a href="https://academy.hackthebox.com/achievement/badge/b23b8764-a631-11ee-bfb6-bea50ffe6cb4">Inroduction to Networking</a> <br/>
     <a href="https://academy.hackthebox.com/achievement/badge/beece776-90f0-11ee-bfb6-bea50ffe6cb4">Security Incident Reporting</a> <br/> <br/>
     <h4 align="left">Practice:</h4>
-    <h5 align="left">Experience on solving ctfs. Practiced at sites like: overthewire , picoctf , tryhackme, pwnable.kr, hackthebox etc.</h5> <br/>
+    <h5 align="left">Experience on solving ctfs. Practiced at sites like: overthewire , picoctf , tryhackme, pwnable.kr, hackthebox etc.</h5>
     <a href="https://tryhackme.com/p/oriozc">TryHackMe profile</a>
 </div>
 
