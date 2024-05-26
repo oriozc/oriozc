@@ -13,7 +13,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,cs,java,c,html,css,bash,mysql" /> <br/>
+    <img src="https://skillicons.dev/icons?i=py,cs,java,c,php,html,css,bash,mysql" /> <br/>
     <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,pycharm,eclipse,idea,sublime,vim,notion" /> <br/>
         <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali" /> <br/>
     <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
