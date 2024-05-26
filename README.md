@@ -13,15 +13,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,cs,java,c,html,css,bash,mysql,linux,windows" /> <br/>
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,pycharm,eclipse,intellij,vim" /> <br/>
-        <img src="https://skillicons.dev/icons?i=ubuntu,sublime,notion,kali" /> <br/>
-    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=py,cs,java,c,html,css,bash,mysql" /> <br/>
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,pycharm,eclipse,sublime,vim,notion" /> <br/>
+        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali" /> <br/>
     <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
     <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/>
     
