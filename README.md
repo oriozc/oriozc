@@ -14,7 +14,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,cs,java,c,html,css,bash,mysql" /> <br/>
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,pycharm,eclipse,sublime,vim,notion" /> <br/>
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,pycharm,eclipse,idea,sublime,vim,notion" /> <br/>
         <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali" /> <br/>
     <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
     <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/>
