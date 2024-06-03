@@ -56,7 +56,7 @@
 <h2 align="center">More experience</h2>
 <h5 align="left">- Have an understanding of networking, operating systems, cryptography and more.</h5>
 <h5 align="left">- Experience with linux and with variety of tools such as:</h5>
-<h5 align="left">Metasploit , Nmap , Wireshark , Burpsuite , Hydra , Nikto , John the ripper etc.</h5>
+<h5 align="left">Metasploit , Nmap , Wireshark , Burpsuite , Hydra , hashcat , John the ripper etc.</h5>
 <h5 align="left">- Have an understanding of programming concepts such as OOP, data structures, design patterns, multithreading etc.</h5>
 
 <hr/>
