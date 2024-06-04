@@ -48,7 +48,20 @@
     <h5 align="left">Experience on solving ctfs. Practiced at sites like: overthewire , picoctf , tryhackme, pwnable.kr, hackthebox etc.</h5>
     <a href="https://tryhackme.com/p/oriozc">TryHackMe profile</a> <br/>
     <h5 align="left">TryHackMe badges-</h5>
+    <a href="https://tryhackme.com/oriozc/badges/hash-cracker">Hash Cracker<a> <br/>
     <a href="https://tryhackme.com/oriozc/badges/90-day-streak">90 day streak<a> <br/>
+    <a href="https://tryhackme.com/oriozc/badges/90-day-streak">90 day streak<a> <br/>
+    <a href="https://tryhackme.com/oriozc/badges/90-day-streak">90 day streak<a> <br/>
+    <a href="https://tryhackme.com/oriozc/badges/90-day-streak">90 day streak<a> <br/>
+        <a href="https://tryhackme.com/oriozc/badges/90-day-streak">90 day streak<a> <br/>
+    <a href="https://tryhackme.com/oriozc/badges/90-day-streak">90 day streak<a> <br/>
+    <a href="https://tryhackme.com/oriozc/badges/90-day-streak">90 day streak<a> <br/>
+    <a href="https://tryhackme.com/oriozc/badges/90-day-streak">90 day streak<a> <br/>
+    <a href="https://tryhackme.com/oriozc/badges/90-day-streak">90 day streak<a> <br/>
+    <a href="https://tryhackme.com/oriozc/badges/90-day-streak">90 day streak<a> <br/>
+    <a href="https://tryhackme.com/oriozc/badges/90-day-streak">90 day streak<a> <br/>
+
+
 </div>
 
 <br/>
