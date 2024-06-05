@@ -47,7 +47,8 @@
     <h4 align="left">Practice:</h4>
     <h5 align="left">Experience on solving ctfs. Practiced at sites like: overthewire , picoctf , tryhackme, pwnable.kr, hackthebox etc.</h5>
     <a href="https://tryhackme.com/p/oriozc">TryHackMe profile</a> 
-    <img src="https://tryhackme.com/badge/1750346"></img>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/oriozc.png" alt="TryHackMe">
+
 
 
 </div>
